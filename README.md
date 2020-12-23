@@ -34,8 +34,8 @@
   : &#60; a &#62;
 ---
 - ### 이미지    
-    1. ![대체 텍스트](https://avatars3.githubusercontent.com/u/42149645?s=60&v=4)
-      : &#60; img &#62;
+    1. ![대체 텍스트](https://avatars3.githubusercontent.com/u/42149645?s=60&v=4)  
+    : &#60; img &#62;
 ---
 - ### 코드 강조
 
